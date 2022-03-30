@@ -70,7 +70,7 @@ const CartScreen = () => {
       renderCell:(rowdata) =>{
         const handleClick = e => {
           e.stopPropagation();
-          console.log(rowdata.row)
+         
           setname(rowdata.row.name)
           setid(rowdata.row.id)
           setopen(true);
