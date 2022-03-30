@@ -10,15 +10,15 @@ import CartScreen from './components/CartScreen';
 import { BrowserRouter as Router,Route,Routes } from 'react-router-dom'
 
 
+
 function App() {
   const dispatch = useDispatch();
   
   const modal = useSelector(state => state.modal);
   useEffect(() => {
-    // console.log('hello')
-    // console.log(pizza)
+    
      dispatch(fetchPizzaData());
-    //  console.log(pizza.pizzas)
+   
   },[dispatch])
   return (
     <div className="App">
