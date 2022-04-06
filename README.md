@@ -16,7 +16,7 @@ It is pizza ordering application developed using reactjs and redux.
 
 ***Docker Image***
 
-Docker image for the appliation is created using the dockerfile. This image is pushed into Azure container registry.
+Docker image for the application is created using the dockerfile. This image is pushed into Azure container registry.
 
 ***Terraform***
 
