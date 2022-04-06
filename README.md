@@ -8,7 +8,7 @@
 
 ***View the app***
 
-The app is deployed in AZure Webapp : https://crispypizza.azurewebsites.net
+The app is deployed in Azure Webapp : https://crispypizza.azurewebsites.net
 
 ***About***
 
